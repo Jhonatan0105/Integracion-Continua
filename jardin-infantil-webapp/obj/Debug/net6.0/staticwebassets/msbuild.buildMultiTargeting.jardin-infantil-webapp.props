@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/jardin-infantil-webapp.props" />
+</Project>

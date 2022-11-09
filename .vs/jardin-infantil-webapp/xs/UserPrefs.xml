@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{6ABE5CC9-9296-4055-9293-57DD9809BC9A}|Default" GitUserInfo="UsingGIT">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.jardin-infantil-webapp PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.Workbench ActiveDocument="jardin-infantil-webapp/Pages/Index.cshtml">
+    <Files>
+      <File FileName="jardin-infantil-webapp/Dockerfile" Line="18" Column="1" />
+      <File FileName="jardin-infantil-webapp/Program.cs" Line="27" Column="1" />
+      <File FileName="jardin-infantil-webapp/Pages/Index.cshtml" Line="12" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="jardin-infantil-webapp" expanded="True">
+            <Node name="jardin-infantil-webapp" expanded="True">
+              <Node name="Pages" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
