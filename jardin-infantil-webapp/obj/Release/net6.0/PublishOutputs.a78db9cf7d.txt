@@ -1,0 +1,7 @@
+/Users/ivangarzonpena/Documents/integracion/integracion-continua/jardin-infantil-webapp/jardin-infantil-webapp/out/jardin-infantil-webapp
+/Users/ivangarzonpena/Documents/integracion/integracion-continua/jardin-infantil-webapp/jardin-infantil-webapp/out/appsettings.Development.json
+/Users/ivangarzonpena/Documents/integracion/integracion-continua/jardin-infantil-webapp/jardin-infantil-webapp/out/appsettings.json
+/Users/ivangarzonpena/Documents/integracion/integracion-continua/jardin-infantil-webapp/jardin-infantil-webapp/out/jardin-infantil-webapp.dll
+/Users/ivangarzonpena/Documents/integracion/integracion-continua/jardin-infantil-webapp/jardin-infantil-webapp/out/jardin-infantil-webapp.deps.json
+/Users/ivangarzonpena/Documents/integracion/integracion-continua/jardin-infantil-webapp/jardin-infantil-webapp/out/jardin-infantil-webapp.runtimeconfig.json
+/Users/ivangarzonpena/Documents/integracion/integracion-continua/jardin-infantil-webapp/jardin-infantil-webapp/out/jardin-infantil-webapp.pdb
