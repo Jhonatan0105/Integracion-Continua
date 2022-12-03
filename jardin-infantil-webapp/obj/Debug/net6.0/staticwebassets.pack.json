@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets/jardin-infantil-webapp.bundle.scp.css"
     },
     {
+      "Id": "/Users/ivangarzonpena/Documents/integracion/integracion-continua/jardin-infantil-webapp/jardin-infantil-webapp/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
       "Id": "/Users/ivangarzonpena/Documents/integracion/integracion-continua/jardin-infantil-webapp/jardin-infantil-webapp/wwwroot/css/site.css",
       "PackagePath": "staticwebassets/css/site.css"
     },

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "xu3+vkQXCvfLgJ0MIRoQPPGBx9aXedlXIN/JXXz4iBY=",
+  "Hash": "Gydw7Mi+q8V87ngsNBhMLW7sy2lGjrwmT+D37Z++sgE=",
   "Source": "jardin-infantil-webapp",
   "BasePath": "_content/jardin-infantil-webapp",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/ivangarzonpena/Documents/integracion/integracion-continua/jardin-infantil-webapp/jardin-infantil-webapp/obj/Debug/net6.0/scopedcss/projectbundle/jardin-infantil-webapp.bundle.scp.css"
+    },
+    {
+      "Identity": "/Users/ivangarzonpena/Documents/integracion/integracion-continua/jardin-infantil-webapp/jardin-infantil-webapp/wwwroot/.DS_Store",
+      "SourceId": "jardin-infantil-webapp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ivangarzonpena/Documents/integracion/integracion-continua/jardin-infantil-webapp/jardin-infantil-webapp/wwwroot/",
+      "BasePath": "_content/jardin-infantil-webapp",
+      "RelativePath": ".DS_Store",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/.DS_Store"
     },
     {
       "Identity": "/Users/ivangarzonpena/Documents/integracion/integracion-continua/jardin-infantil-webapp/jardin-infantil-webapp/wwwroot/css/site.css",
