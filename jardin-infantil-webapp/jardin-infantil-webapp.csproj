@@ -17,6 +17,9 @@
     <Content Remove="wwwroot\images\" />
   </ItemGroup>
   <ItemGroup>
+    <None Remove="out\wwwroot\images\" />
+  </ItemGroup>
+  <ItemGroup>
     <None Include="wwwroot\images\0fd3416c.jpeg" />
     <None Include="wwwroot\images\68f64b9d.jpeg" />
     <None Include="wwwroot\images\8ad73f3c.jpeg" />
@@ -26,5 +29,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="wwwroot\images\" />
+    <Folder Include="out\wwwroot\images\" />
   </ItemGroup>
 </Project>
