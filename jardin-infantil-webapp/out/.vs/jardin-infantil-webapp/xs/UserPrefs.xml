@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{AC26E964-CC24-4E5C-BE16-AF7157E9883B}|Default">
+  <MonoDevelop.Ide.ItemProperties.jardin-infantil-webapp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="jardin-infantil-webapp" expanded="True" selected="True">
+            <Node name="jardin-infantil-webapp" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

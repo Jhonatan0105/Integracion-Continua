@@ -1,34 +1,63 @@
-﻿<Properties StartupConfiguration="{6ABE5CC9-9296-4055-9293-57DD9809BC9A}|Default" GitUserInfo="UsingGIT">
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{6ABE5CC9-9296-4055-9293-57DD9809BC9A}|Default">
   <MonoDevelop.Ide.ItemProperties.jardin-infantil-webapp PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="jardin-infantil-webapp/Dockerfile">
+  <MonoDevelop.Ide.Workbench ActiveDocument="jardin-infantil-webapp/out/web.config">
     <Files>
-      <File FileName="jardin-infantil-webapp/Dockerfile" Line="1" Column="1" />
+      <File FileName="jardin-infantil-webapp/Dockerfile" Line="18" Column="1" />
       <File FileName="jardin-infantil-webapp/Program.cs" />
       <File FileName="jardin-infantil-webapp/wwwroot/css/site.css" />
       <File FileName="jardin-infantil-webapp/wwwroot/js/site.js" />
       <File FileName="jardin-infantil-webapp/jardin-infantil-webapp.csproj" />
-      <File FileName="jardin-infantil-webapp/Pages/Page-2.html" Line="1" Column="1" />
-      <File FileName="jardin-infantil-webapp/Pages/Index.cshtml" Line="4" Column="42" />
+      <File FileName="jardin-infantil-webapp/Pages/Page-2.html" Line="53" Column="66" />
+      <File FileName="jardin-infantil-webapp/Pages/Index.cshtml" Line="82" Column="62" />
       <File FileName="jardin-infantil-webapp/Pages/Shared/_Layout.cshtml" />
+      <File FileName="jardin-infantil-webapp/out/web.config" Line="1" Column="1" />
+      <File FileName="jardin-infantil-webapp/appsettings.json" Line="1" Column="1" />
+      <File FileName="jardin-infantil-webapp/appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="jardin-infantil-webapp/wwwroot/lib/jquery/dist/jquery.js" Line="1" Column="1" />
+      <File FileName="jardin-infantil-webapp/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt" Line="1" Column="1" />
+      <File FileName="jardin-infantil-webapp/bin/Debug/net6.0/out/web.config" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="jardin-infantil-webapp" expanded="True">
+            <Node name="Solution Items" expanded="True" />
             <Node name="jardin-infantil-webapp" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
+              <Node name="out" expanded="True">
+                <Node name="wwwroot" expanded="True" />
+                <Node name="web.config" selected="True" />
+              </Node>
               <Node name="Pages" expanded="True">
                 <Node name="Shared" expanded="True" />
               </Node>
               <Node name="Properties" expanded="True" />
               <Node name="wwwroot" expanded="True">
                 <Node name="css" expanded="True" />
+                <Node name="images" expanded="True" />
                 <Node name="js" expanded="True" />
+                <Node name="lib" expanded="True">
+                  <Node name="bootstrap" expanded="True">
+                    <Node name="dist" expanded="True" />
+                  </Node>
+                  <Node name="jquery" expanded="True">
+                    <Node name="dist" expanded="True" />
+                  </Node>
+                  <Node name="jquery-validation" expanded="True">
+                    <Node name="dist" expanded="True" />
+                  </Node>
+                  <Node name="jquery-validation-unobtrusive" expanded="True">
+                    <Node name="jquery.validate.unobtrusive.js" expanded="True" />
+                  </Node>
+                </Node>
               </Node>
+              <Node name="appsettings.json" expanded="True" />
             </Node>
           </Node>
         </State>
@@ -36,4 +65,5 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
 </Properties>
