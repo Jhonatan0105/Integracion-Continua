@@ -5,23 +5,21 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="jardin-infantil-webapp/Pages/Index.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="jardin-infantil-webapp/Dockerfile">
     <Files>
-      <File FileName="jardin-infantil-webapp/Dockerfile" />
-      <File FileName="jardin-infantil-webapp/Program.cs" Line="27" Column="1" />
-      <File FileName="jardin-infantil-webapp/wwwroot/css/site.css" Line="94" Column="2" />
-      <File FileName="jardin-infantil-webapp/wwwroot/css/Page-2.css" Line="36" Column="15" />
-      <File FileName="jardin-infantil-webapp/wwwroot/css/Post-Template.css" Line="1" Column="1" />
-      <File FileName="jardin-infantil-webapp/wwwroot/js/site.js" Line="70" Column="4" />
-      <File FileName="jardin-infantil-webapp/jardin-infantil-webapp.csproj" Line="1" Column="1" />
+      <File FileName="jardin-infantil-webapp/Dockerfile" Line="1" Column="1" />
+      <File FileName="jardin-infantil-webapp/Program.cs" />
+      <File FileName="jardin-infantil-webapp/wwwroot/css/site.css" />
+      <File FileName="jardin-infantil-webapp/wwwroot/js/site.js" />
+      <File FileName="jardin-infantil-webapp/jardin-infantil-webapp.csproj" />
       <File FileName="jardin-infantil-webapp/Pages/Page-2.html" Line="1" Column="1" />
       <File FileName="jardin-infantil-webapp/Pages/Index.cshtml" Line="4" Column="42" />
-      <File FileName="jardin-infantil-webapp/Pages/Shared/_Layout.cshtml" Line="26" Column="29" />
+      <File FileName="jardin-infantil-webapp/Pages/Shared/_Layout.cshtml" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="jardin-infantil-webapp" expanded="True" selected="True">
+          <Node name="jardin-infantil-webapp" expanded="True">
             <Node name="jardin-infantil-webapp" expanded="True">
               <Node name="Pages" expanded="True">
                 <Node name="Shared" expanded="True" />
